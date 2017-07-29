@@ -1,2 +1,1 @@
-# Projeler
-KTU-CENG
+#KTU-CENG
